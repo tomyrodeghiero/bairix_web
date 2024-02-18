@@ -13,9 +13,7 @@ const Navbar = () => (
     className={`${styles.xPaddings} py-8 relative`}
   >
     <div className="absolute w-[50%] inset-0 gradient-01" />
-    <div
-      className={`mx-auto flex justify-center`}
-    >
+    <div className="mx-auto flex justify-center">
       <img
         src="/logotype.png"
         alt="logotype"
