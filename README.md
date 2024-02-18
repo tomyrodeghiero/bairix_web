@@ -36,3 +36,4 @@ After starting the server, open [http://localhost:3000](http://localhost:3000) i
 
 - [Next.js](https://nextjs.org/) - The React framework used
 - [Yarn](https://yarnpkg.com/) - Dependency Management# bairix_web
+# bairix_web
